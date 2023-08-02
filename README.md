@@ -1,2 +1,1 @@
-My first readme
-this lime was updated from git hub 
+My first readme, updated copy
